@@ -1,6 +1,6 @@
 # chi_test
 
-
+There should be no warnings in any file
 You are only allowed to use Listview.builder and TextFormField once. 
 
 
@@ -20,7 +20,7 @@ Make a component of text form field and use it for both username and password fi
 
 Make a component of listview and use it in both doctor and compliance detail screen.
 
-your widget should accept atleast these parameters you can add more parameters if you like
+your widget should accept at least these parameters you can add more parameters if you like
 your widget should be able to perform 
         - pull to refresh
         - pagination
